@@ -172,7 +172,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 }
               },
               style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.pink[800],
+                backgroundColor: Colors.pink[700],
                 minimumSize: const Size(double.infinity, 50),
               ),
               child: const Text(

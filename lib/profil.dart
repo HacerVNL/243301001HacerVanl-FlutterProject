@@ -44,7 +44,7 @@ class ProfileEkrani extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Profil ve İşlem Geçmişi"),
-        backgroundColor: Colors.pink[800],
+        backgroundColor: Colors.pink[700],
       ),
       body: Column(
         children: [

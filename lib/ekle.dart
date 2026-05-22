@@ -69,7 +69,7 @@ class _EklemeEkraniState extends State<EklemeEkrani> {
                   }
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.pink[800],
+                  backgroundColor: Colors.pink[700],
                 ),
                 child: const Text(
                   "KAMPANYAYI EKLE",
