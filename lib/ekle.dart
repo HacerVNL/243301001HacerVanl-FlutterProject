@@ -23,7 +23,7 @@ class _EklemeEkraniState extends State<EklemeEkrani> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Yeni Kampanya Ekle"),
-        backgroundColor: Colors.pink[800],
+        backgroundColor: Colors.pink[700],
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),

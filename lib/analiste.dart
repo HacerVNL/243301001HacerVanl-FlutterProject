@@ -31,7 +31,7 @@ class _ListeEkraniState extends State<ListeEkrani> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Aktif Kampanyalar"),
-        backgroundColor: Colors.pink[800],
+        backgroundColor: Colors.pink[700],
         actions: [
           IconButton(
             icon: const Icon(Icons.person),
