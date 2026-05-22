@@ -58,7 +58,7 @@ class _DetayEkraniState extends State<DetayEkrani> {
             LinearProgressIndicator(
               value: ilerleme,
               backgroundColor: Colors.grey[300],
-              color: Colors.pink[800],
+              color: Colors.pink[700],
               minHeight: 15,
             ),
             const SizedBox(height: 10),
