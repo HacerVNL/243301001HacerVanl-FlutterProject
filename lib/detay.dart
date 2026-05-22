@@ -100,7 +100,7 @@ class _DetayEkraniState extends State<DetayEkrani> {
                   }
                 },
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.pink[800],
+                  backgroundColor: Colors.pink[700],
                 ),
                 child: const Text(
                   "BAĞIŞ YAP",
